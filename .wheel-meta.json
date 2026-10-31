@@ -1,0 +1,22 @@
+{
+  "wheel_id": 582,
+  "structure": "umbrella",
+  "slug": "financebrokercentralcoast-106",
+  "project": "mortgage-broker-central-coast-what-to-expect-eb1b0407c9f3b5059c",
+  "parent_t1_ref": "financebrokercentralcoast-152",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "mortgage broker central coast what to expect",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-central-coast-what-to-expect-eb1b0407c9f3b5059c/",
+  "tier": "T2",
+  "writeback_nonce": "811a720e44a5d902",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokercentralcoast-152/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
